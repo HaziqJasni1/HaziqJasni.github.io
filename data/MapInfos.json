@@ -14,5 +14,5 @@ null,
 {"id":12,"expanded":false,"name":"Inside tent","order":14,"parentId":14,"scrollX":1390.2857142857142,"scrollY":825.4285714285713,"quick":false},
 {"id":13,"expanded":true,"name":"Hutan Montane","order":12,"parentId":0,"scrollX":1404,"scrollY":998.5714285714286,"quick":false},
 {"id":14,"expanded":true,"name":"Rumah npc sakit","order":13,"parentId":13,"scrollX":1390.2857142857142,"scrollY":825.4285714285713,"quick":false},
-{"id":15,"expanded":false,"name":"Floating Temple","order":15,"parentId":0,"scrollX":1390.2857142857142,"scrollY":928.2857142857142,"quick":false}
+{"id":15,"expanded":false,"name":"Floating Temple","order":15,"parentId":0,"scrollX":1390.2857142857142,"scrollY":825.4285714285713,"quick":false}
 ]
